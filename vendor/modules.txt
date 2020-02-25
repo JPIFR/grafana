@@ -1,4 +1,4 @@
-# cloud.google.com/go v0.34.0
+# cloud.google.com/go v0.37.4
 cloud.google.com/go/civil
 cloud.google.com/go/compute/metadata
 # github.com/BurntSushi/toml v0.3.1
@@ -86,7 +86,7 @@ github.com/crewjam/saml/logger
 github.com/crewjam/saml/xmlenc
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
-# github.com/denisenkom/go-mssqldb v0.0.0-20190315220205-a8ed825ac853
+# github.com/denisenkom/go-mssqldb v0.0.0-20190707035753-2be1aa521ff4
 github.com/denisenkom/go-mssqldb
 github.com/denisenkom/go-mssqldb/internal/cp
 # github.com/facebookgo/inject v0.0.0-20180706035515-f23751cae28b
@@ -333,7 +333,7 @@ google.golang.org/appengine/internal/modules
 google.golang.org/appengine/internal/remote_api
 google.golang.org/appengine/internal/urlfetch
 google.golang.org/appengine/urlfetch
-# google.golang.org/genproto v0.0.0-20180817151627-c66870c02cf8
+# google.golang.org/genproto v0.0.0-20190404172233-64821d5d2107
 google.golang.org/genproto/googleapis/rpc/status
 # google.golang.org/grpc v1.23.1
 google.golang.org/grpc
